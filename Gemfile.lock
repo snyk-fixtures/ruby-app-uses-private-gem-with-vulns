@@ -1,8 +1,8 @@
 GIT
-  remote: https://github.com/snyk-fixtures/ruby-simple-vuln-gem
-  revision: 3786a5b4fccceb4aaa0b3cdfa4b0da1092659d78
+  remote: https://github.com/snyk-fixtures/ruby-gem-simple-vuln
+  revision: 45b557235f84b61335a81f2ba074e081ec60e236
   specs:
-    ruby-simple-vuln-gem (0.1.0)
+    ruby-gem-simple-vuln (0.1.0)
       nokogiri (= 1.5.4)
 
 GEM
@@ -16,7 +16,7 @@ PLATFORMS
 
 DEPENDENCIES
   json (= 1.0.0)
-  ruby-simple-vuln-gem!
+  ruby-gem-simple-vuln!
 
 BUNDLED WITH
    1.13.7

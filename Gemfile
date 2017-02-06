@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 
-gem 'ruby-simple-vuln-gem', :git => 'https://github.com/snyk-fixtures/ruby-simple-vuln-gem'
+gem 'ruby-gem-simple-vuln', :git => 'https://github.com/snyk-fixtures/ruby-gem-simple-vuln'
 gem 'json', '1.0.0'
