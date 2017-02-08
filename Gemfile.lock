@@ -8,14 +8,14 @@ GIT
 GEM
   remote: https://rubygems.org/
   specs:
-    json (1.0.0)
+    json (1.5.5)
     nokogiri (1.5.4)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  json (= 1.0.0)
+  json (= 1.5.5)
   ruby-gem-simple-vuln!
 
 BUNDLED WITH
