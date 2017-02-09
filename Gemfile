@@ -1,4 +1,3 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
-gem 'ruby-gem-simple-vuln', :git => 'https://github.com/snyk-fixtures/ruby-gem-simple-vuln'
-gem 'json', '1.0.0'
+gem "private", "1.0.0"

@@ -1,17 +1,15 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    json (1.0.0)
-    nokogiri (1.5.4)
-    ruby-gem-simple-vuln (0.1.0)
-      nokogiri (= 1.5.4)
+    private (1.0.0)
+      sidekiq-pro (1.7.6)
+    sidekiq-pro (1.7.6)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  json (= 1.0.0)
-  ruby-gem-simple-vuln (= 1.5.4)
+  private (= 1.0.0)
 
 BUNDLED WITH
    1.13.7
