@@ -1,0 +1,17 @@
+# Snyk (https://snyk.io) policy file, patches or ignores known vulnerabilities.
+version: v1.10.2
+# ignores vulnerabilities until expiry date; change duration by modifying expiry date
+ignore:
+  SNYK-RUBY-SIDEKIQPRO-20197:
+    - '* > private@1.0.0':
+        reason: None given
+        expires: '2018-04-07T15:14:55.492Z'
+  SNYK-RUBY-SIDEKIQPRO-20219:
+    - '* > private@1.0.0':
+        reason: None given
+        expires: '2018-04-07T15:14:55.492Z'
+  SNYK-RUBY-SIDEKIQPRO-20234:
+    - '* > private@1.0.0':
+        reason: None given
+        expires: '2018-04-07T15:14:55.492Z'
+patch: {}
